@@ -10,7 +10,8 @@
 
 
 #### 1. Model 1
-![model](https://user-images.githubusercontent.com/55013577/81248661-d2b73d00-9057-11ea-913c-2a2d4e4806f3.png)
+![model](<img width="530" alt="1" src="https://user-images.githubusercontent.com/80510889/121809520-0a9ba580-cc98-11eb-9ee3-9a0534ec0319.png">
+)
 #### 2. Training with Training loss 
 ![Training](https://user-images.githubusercontent.com/55013577/81248789-2033aa00-9058-11ea-800f-7ccff5d334f6.png)
 #### 3. Test Accuracy
